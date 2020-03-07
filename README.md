@@ -5,6 +5,14 @@ This is an ecommerce site, where you can buy all sorts of ascii faces like `(ノ
 
 Please read the instructions and FAQ below before beginning.
 
+Update dependency
+====
+npm install --save
+
+start application
+===
+npm start
+
 Features
 ----
 
